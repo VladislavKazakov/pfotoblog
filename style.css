@@ -113,6 +113,7 @@ h1{
 .button{
     color: var(--text-color);
     border: solid var(--text-color) 1px;
-    width: 165px;
-    height: 60px;
+    font-size: 14px;
+    background-color: #fff;
+    padding: 20px 48px;
 }
